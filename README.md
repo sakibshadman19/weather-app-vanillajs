@@ -17,7 +17,7 @@ API Link - https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&a
 
   - [Github](https://github.com/sakibshadman19)
   - [LinkedIn](https://www.linkedin.com/in/shadman-sakib-95462923a/)
-  - [Facebook](https://www.facebook.com/shadman.sakibtanmoy)
+  
   
 
 
